@@ -49,6 +49,4 @@ The goal is to build a predictive model to maximize net profit by identifying th
 - **Conclusion**:
   - The Random Forest Classifier outperforms Logistic Regression in identifying the target customers and maximizing profit for Universal Bank.
 
---- 
-
 This project highlights the importance of tailored predictive modeling to achieve business objectives efficiently.
