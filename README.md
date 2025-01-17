@@ -12,7 +12,6 @@ Universal Bank has initiated a consumer loan program to encourage existing custo
 
 The goal is to build a predictive model to maximize net profit by identifying the subset of customers most likely to accept the loan offer.
 
----
 
 ### Approach:
 
@@ -34,7 +33,6 @@ The goal is to build a predictive model to maximize net profit by identifying th
    - Grid Search found the best Random Forest model with `n_estimators=200` and `max_depth=None`.
    - This model achieved a higher net profit of $9890 for the 1500 members in the test dataset.
 
----
 
 ### Results:
 
